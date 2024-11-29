@@ -1,0 +1,3 @@
+from executors.data_gathering_executor import DataGatheringExecutor
+
+DataGatheringExecutor.execute()
